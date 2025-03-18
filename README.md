@@ -9,17 +9,17 @@ This project is part of the **Midterm for AI Image Generation**, where we use **
 - **Comparison:** Before vs. after style modification.
 
 │-- 📂 Repository Structure  
-📁 YOUR_REPOSITORY/  
-│-- 📜 Midterm_Project.ipynb   # Jupyter Notebook for execution  
-│-- 📜 slides.tex              # Beamer presentation slides  
-│-- 📂 images/                 # Generated images  
-│-- 📜 submission.csv          # CSV with CLIP scores & image paths  
-│-- 📜 README.md               # Project documentation  
+📁 #YOUR_REPOSITORY/  
+│-- 📜 #Midterm_Project.ipynb   # Jupyter Notebook for execution  
+│-- 📜 #slides.tex              # Beamer presentation slides  
+│-- 📂 #images/                 # Generated images  
+│-- 📜 #submission.csv          # CSV with CLIP scores & image paths  
+│-- 📜 #README.md               # Project documentation  
 
 │-- 🔧 Setup Instructions  
-│   ├── 1️⃣ Open Jupyter Notebook in Google Colab  
-│   ├── 2️⃣ Run Notebook & Generate Images  
-│   ├── 3️⃣ View the LaTeX Slides  
+    ├── 1️⃣ Open Jupyter Notebook in Google Colab  
+    ├── 2️⃣ Run Notebook & Generate Images  
+    ├── 3️⃣ View the LaTeX Slides  
 │-- 📊 Results Summary (Table with CLIP scores)  
 │-- 🙌 Contributor  
 👤 **Zhiyu Cheng** - First year Stats PhD student in GWU  
