@@ -17,9 +17,9 @@ This project is part of the **Midterm for AI Image Generation**, where we use **
 │-- 📜 #README.md               # Project documentation  
 
 │-- 🔧 Setup Instructions  
-    ├── 1️⃣ Open Jupyter Notebook in Google Colab  
-    ├── 2️⃣ Run Notebook & Generate Images  
-    ├── 3️⃣ View the LaTeX Slides  
+|   ├── 1️⃣ Open Jupyter Notebook in Google Colab  
+|   ├── 2️⃣ Run Notebook & Generate Images  
+|   ├── 3️⃣ View the LaTeX Slides  
 │-- 📊 Results Summary (Table with CLIP scores)  
 │-- 🙌 Contributor  
 👤 **Zhiyu Cheng** - First year Stats PhD student in GWU  
