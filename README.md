@@ -1,5 +1,3 @@
-📜 README.md  
-
 # 🚀 AI-Generated Drawings with CLIP Scoring
 
 This project is part of the **Midterm for AI Image Generation**, where we use **Stable Diffusion** to create AI-generated images and apply **CLIP scoring** to evaluate text-to-image alignment.
