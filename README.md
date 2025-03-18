@@ -15,7 +15,8 @@ This project is part of the **Midterm for AI Image Generation**, where we use **
 2️⃣ Run Notebook & Generate Images  
 3️⃣ View the LaTeX Slides  
 
-📊 Results Summary (Table with CLIP scores)  
+📊 Results Summary  
+![1742270088664](https://github.com/user-attachments/assets/08ca67dd-894f-44b7-9441-2e72b23944a8)
 
 
 🙌 Contributor  
