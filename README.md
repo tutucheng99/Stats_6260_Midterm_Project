@@ -10,10 +10,12 @@ This project is part of the **Midterm for AI Image Generation**, where we use **
 
 
 
-│-- 🔧 Setup Instructions  
-|   ├── 1️⃣ Open Jupyter Notebook in Google Colab  
-|   ├── 2️⃣ Run Notebook & Generate Images  
-|   ├── 3️⃣ View the LaTeX Slides  
+│-- 🔧 Setup Instructions:  
+1️⃣ Open Jupyter Notebook in Google Colab  
+2️⃣ Run Notebook & Generate Images  
+3️⃣ View the LaTeX Slides  
+
+
 │-- 📊 Results Summary (Table with CLIP scores)  
 
 
