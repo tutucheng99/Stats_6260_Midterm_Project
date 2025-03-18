@@ -12,8 +12,8 @@ This project is part of the **Midterm for AI Image Generation**, where we use **
 
 🔧 Setup Instructions:  
 1️⃣ Open Jupyter Notebook in Google Colab  
-2️⃣ Run Notebook & Generate Images  
-3️⃣ View the LaTeX Slides  
+2️⃣ Add the train.csv file to the folder   
+3️⃣ Run the notebook  
 
 📊 Results Summary  
 ![1742270088664](https://github.com/user-attachments/assets/08ca67dd-894f-44b7-9441-2e72b23944a8)
