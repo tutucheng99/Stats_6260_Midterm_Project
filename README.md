@@ -1,4 +1,4 @@
-📜 README.md
+📜 README.md  
 │-- 📌 Project Overview
 # 🚀 AI-Generated Drawings with CLIP Scoring
 
